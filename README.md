@@ -1,0 +1,4 @@
+En este proyecto se entrenaron y estudiaron diferentes modelos para la predicción de la demanda energética nacional en base a los datos obtenidos de la API de REDEIA, mejorándolos mediante el tuning de hiperparámetros.
+Para comparar su precisión, se tomaron como datos de entrenamiento los correspondientes a la demanda energética entre los años 2011 y 2022, y como datos de validación los ya existentes del 2023. El modelo que más se ajustó a los datos reales, se utilizó para la predicción de la demanda energética del país en los siguientes 365 días.
+
+Como durante el proyecto se analizan los resultados obtenidos y, al ejecutar los modelos de predicción se generan diferentes valores, se adjunta una carpeta con los archivos correspondientes a las valoraciones finales en el momento de su ejecución.
